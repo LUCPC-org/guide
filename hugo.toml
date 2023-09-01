@@ -5,7 +5,7 @@ theme = 'PaperMod'
 
 [params.homeInfoParams]
 Title = "Hi there! 👋"
-Content = "Welcome to the Liberty University Competitive Programming Guide!. This guide is designed to help you learn the basics of competitive programming and prepare you for the ICPC competition."
+Content = "Welcome to the Liberty University Competitive Programming Guide! This guide is designed to help you learn the basics of competitive programming and prepare you for the ICPC competition."
 
 
 [menu]

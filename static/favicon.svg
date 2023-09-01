@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73406285"
+     inkscape:cx="396.42382"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1421"
+     inkscape:window-height="854"
+     inkscape:window-x="2213"
+     inkscape:window-y="135"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="267.00711"
+       y="602.12828"
+       width="243.84833"
+       height="64.027215"
+       id="rect4057" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#141c1a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.718;paint-order:markers fill stroke"
+       id="rect846"
+       width="83.981789"
+       height="83.981789"
+       x="60.913837"
+       y="98.038834"
+       ry="14.777909"
+       inkscape:export-filename="C:\Users\Jaket\Documents\Programming\LibertyCPC\favicon.png"
+       inkscape:export-xdpi="147.355"
+       inkscape:export-ydpi="147.355" />
+    <path
+       d="m 133.63522,130.3688 h -16.33817 l -0.59475,2.68527 c 0.98896,0.0825 3.15776,0.43267 4.37197,1.91744 0.79117,0.96699 1.04387,2.22857 0.75132,3.74976 l -2.41331,11.43537 c -0.58374,2.61178 -1.19016,3.99492 -2.23612,5.10748 -0.92505,0.98551 -2.27662,1.52738 -3.80881,1.52738 -3.20927,0 -5.06147,-1.64551 -5.21804,-4.63294 -0.0399,-0.76644 0.0455,-1.69221 0.25282,-2.7498 l 4.0684,-19.03996 H 95.630987 l -0.594042,2.68527 c 0.980691,0.0825 3.12616,0.42853 4.34518,1.88655 0.784275,0.93949 1.054875,2.16125 0.803505,3.63161 l -0.499965,2.52045 H 87.470814 l 5.315593,-25.31769 H 76.135712 l -0.599545,2.70862 0.881822,0.0894 c 1.201842,0.21569 2.822622,0.75338 3.719524,2.10015 0.638687,0.9594 0.806964,2.17292 0.499975,3.60552 l -5.377395,25.59582 h 28.783797 l -0.0563,0.47113 c -0.16068,1.0425 -0.0372,2.64405 -0.0372,2.64405 l -0.46975,-0.0182 a 15.198163,15.198163 0 0 0 -0.55354,-0.007 c -1.36252,0 -3.402915,0.59473 -4.257945,1.73548 -0.91684,1.22242 -0.57826,2.92011 -0.0322,4.22497 1.27738,3.05406 3.981855,5.13839 7.086055,6.01471 2.04862,0.57827 4.40903,0.96971 6.53801,0.96971 5.56076,0 9.43345,-1.36459 12.1874,-4.29503 2.17429,-2.31234 3.68451,-5.55252 4.61782,-9.90181 z"
+       fill="#ffffff"
+       id="path1378"
+       style="stroke-width:0.686766"
+       inkscape:export-filename="C:\Users\Jaket\Documents\Programming\LibertyCPC\favicon.png"
+       inkscape:export-xdpi="147.355"
+       inkscape:export-ydpi="147.355" />
+  </g>
+</svg>

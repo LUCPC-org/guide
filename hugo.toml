@@ -1,0 +1,19 @@
+baseURL = 'https://guide.lucpc.org/'
+languageCode = 'en-us'
+title = 'LUCPC Guide'
+theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = "Hi there! 👋"
+Content = "Welcome to the Liberty University Competitive Programming Guide!. This guide is designed to help you learn the basics of competitive programming and prepare you for the ICPC competition."
+
+
+[menu]
+[[menu.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menu.main]]
+    name = 'Main Website'
+    url = 'https://lucpc.org'
+    weight = 20

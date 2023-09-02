@@ -34,3 +34,4 @@ date = 2023-09-02T15:44:47-04:00
 - [**Algo Wiki**](https://wiki.algo.is/)
 - [**Competitive Programmer's Handbook**](https://cses.fi/book/book.pdf)
 - [**How to prepare for ACM - ICPC**](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)
+- [**Robert's Blog**](https://robert1003.github.io/)

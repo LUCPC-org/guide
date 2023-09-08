@@ -3,8 +3,6 @@ title = 'Resources'
 date = 2023-09-02T15:44:47-04:00
 +++
 
-# Resources
-
 ## Websites
 
 - [Leetcode](https://leetcode.com/)
@@ -35,3 +33,5 @@ date = 2023-09-02T15:44:47-04:00
 - [**Competitive Programmer's Handbook**](https://cses.fi/book/book.pdf)
 - [**How to prepare for ACM - ICPC**](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)
 - [**Robert's Blog**](https://robert1003.github.io/)
+- [**Competitive Programming Course**](https://algo.is/competitive-programming-course)
+- [**Competitive Programming Course 2016**](https://algo.is/t-414-aflv-competitive-programming-course-2016)

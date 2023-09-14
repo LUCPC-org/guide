@@ -16,6 +16,7 @@ date = 2023-09-02T15:44:47-04:00
 - [**Pypup**](https://pypup.com/)
     - Like leetcode but for beginner's 
 - [**CodinGame**](https://www.codingame.com/)
+- [**A Guide to Kattis Problems**](https://mwermelinger.github.io/kattis-guide/)
 
 
 ## Intermediate Resources

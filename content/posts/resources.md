@@ -30,6 +30,7 @@ date = 2023-09-02T15:44:47-04:00
 
 ## Advanced Resources
 
+- [**Book Code Library**](https://github.com/kth-competitive-programming/kactl/)
 - [**Algo Wiki**](https://wiki.algo.is/)
 - [**Competitive Programmer's Handbook**](https://cses.fi/book/book.pdf)
 - [**How to prepare for ACM - ICPC**](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)
